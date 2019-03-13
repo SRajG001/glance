@@ -1,0 +1,19 @@
+.share-post-btn {
+    float: right;
+    margin-bottom: 4rem;
+}
+
+.details-wrapper {
+    margin-top: 10px;
+}
+
+.blog_fashion_content p{
+    width: 60rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.file-upload {
+    position: absolute;
+    margin-top: -16px;
+}
